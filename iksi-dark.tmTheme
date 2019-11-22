@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>iksi-dark</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#111111</string>
+				<key>caret</key>
+				<string>#F0F0F0</string>
+				<key>foreground</key>
+				<string>#F0F0F0</string>
+				<key>invisibles</key>
+				<string>#111111</string>
+				<key>lineHighlight</key>
+				<string>#111111</string>
+				<key>selection</key>
+				<string>#F0F0F0</string>
+				<key>selectionForeground</key>
+				<string>#111111</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+	<key>semanticClass</key>
+	<string>theme.dark.monokai</string>
+</dict>
+</plist>
